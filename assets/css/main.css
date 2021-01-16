@@ -3713,6 +3713,23 @@ body.is-menu-visible #menu .inner {
     visibility: visible;
 }
 
-#fondohea {
-    background-image: url(https://artfiles.alphacoders.com/800/80030.png);
+footer .logo strong {
+    background-color: white;
+    color: #242943;
+    display: inline-block;
+    line-height: 1.65em;
+    margin-right: 0.325em;
+    padding: 0 0.125em 0 0.375em;
+    border: 0;
+    display: inline-block;
+    font-size: 0.8em;
+    height: inherit;
+    line-height: inherit;
+    letter-spacing: 0.25em;
 }
+
+footer {
+    text-align: center;
+}
+
+footer img {}
