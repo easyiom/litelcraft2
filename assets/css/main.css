@@ -3135,6 +3135,7 @@ body.is-preload #header.alt {
     #header .logo span {
         display: none;
     }
+    ;
     #header nav a[href="#menu"] {
         overflow: hidden;
         padding-right: 0 !important;
