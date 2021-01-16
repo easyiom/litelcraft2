@@ -3733,4 +3733,6 @@ footer {
     text-align: center;
 }
 
-footer img {}
+.fondoclaro {
+    background-color: #2e3450;
+}
