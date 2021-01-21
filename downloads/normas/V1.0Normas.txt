@@ -1,0 +1,59 @@
+22/01/2021
+Aunque parezcan muchas normas y que limitan mucho, la clave está en el sentido común. Por ej. con las 
+cosas referidas al lag… Sobre todo habrá una cierta seriedad respecto al desarrollo del juego, porque 
+hay gente que tiene que estudiar más o menos, y para dar una experiencia un poco más amena a todos.
+ Sobretodo, SENTIDO COMÚN
+
+
+REFERENTE A LA CASA→ → → 	El administrador avisará sobre las infracciones referentes a este tema. 
+				Solo habrá un aviso, si no se hace caso el administrador "tomará medidas". Se puede llegar a banear (tanto temporalmente como permanente)
+
+	-Las casas se pondrán en una zona, todas juntitas (tema lag)
+	-Máximo casa por persona, no se puede compartir casa
+	-No hacer bases/casas gigantes (evitar atentados y lag)
+
+
+
+REFERENTE AL COMPORTAMIENTO EN GENERAL→ → →	El admin avisara en las cosas leves, pero en las graves se hará un 
+						ban directamente, ya sea temporal odefinitivo
+
+	-No usar hacks
+	-No abusar de exploits/bugs/glitch (No duplicar items)
+	-No robar a otras personas
+	-No compartir la IP con otra gente (el servidor tiene una whitelist, si no estas en ella, no puedes entrar)
+	-No romper ningún bloque de casas ajenas
+	-No colarse en casas ajenas ILEGALMENTE
+	-No estar matando todo el rato a otros jugadores
+	-No hacer spawn kill
+	-Hacer caso de lo que diga el administrador
+	-No grifear
+	-No romper cosas públicas (estatuas, granjas comunitarias, etc.)
+
+
+
+REFERENTE AL DESARROLLO DEL SERVIDOR→ → →    El administrador no avisara, si no se hace caso a estas normas se realizara un ban temporal, o un ban
+ definitivo
+
+	-Respetar el horario
+	-No entrar al nether hasta que el admin diga que se puede (también por el lag)
+	-No entrar al end (o buscarlo) hasta que el admin diga que se puede (también por el lag)
+	-No entrar al Twilight hasta que el admin diga que se puede (también por el lag)
+	-No entrar a dimensiones alternativas sin que el admin de su visto bueno
+	-No USAR (se puede picar) diamante hasta que el admin lo permita (salvo excepción del pico de diamante)
+
+
+
+REFERNTE AL LAG→ → →	El administrador avisará sobre las cosas referentes al lag. Solo habrá un aviso, 
+			si no se hace caso el administrador "tomará medidas" (quitar lo que él diga que causa lag)Se puede llegar a banear
+
+	-No dejar circuitos de redstone encendidos (relojes y mecanismos por el estilo)
+	-No tener más de 20 animales en granjas. Evitar colisiones de mobs (recomendable hacer granja comunitaria)
+	-No tener más de 12 item frames colocados por persona
+	-No estar AFK todo el tiempo
+	-Evitar dejar agua en movimietno
+	-Evitar poner lava
+	-No se pueden cargar chunks
+	-No pasarse con la exploración
+
+
+
